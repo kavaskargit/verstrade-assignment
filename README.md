@@ -1,0 +1,2 @@
+# verstrade-assignment
+Interview Task
